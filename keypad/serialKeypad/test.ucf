@@ -1,0 +1,24 @@
+
+# Mohsen Sadeghi Moghaddam
+# m.sadeghimoghaddam@yahoo.com
+
+NET "clk" LOC = P50;
+NET "uart_rxd" LOC = P105;
+NET "uart_txd" LOC = P104;
+NET "digitLoc[3]" LOC = P46;
+NET "digitLoc[2]" LOC = P45;
+NET "digitLoc[1]" LOC = P41;
+NET "digitLoc[0]" LOC = P32;
+NET "sevenSegOut[7]" LOC = P47;
+NET "sevenSegOut[6]" LOC = P43;
+NET "sevenSegOut[5]" LOC = P34;
+NET "sevenSegOut[4]" LOC = P40;
+NET "sevenSegOut[3]" LOC = P35;
+NET "sevenSegOut[2]" LOC = P44;
+NET "sevenSegOut[1]" LOC = P30;
+NET "sevenSegOut[0]" LOC = P33;
+NET "led[0]" LOC = P132;
+NET "led[1]" LOC = P131;
+NET "led[2]" LOC = P127;
+NET "led[3]" LOC = P126;
+NET "i_rst" LOC = P78;

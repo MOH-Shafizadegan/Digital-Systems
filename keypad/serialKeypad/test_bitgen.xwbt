@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Behyaar\Projects\keypad\serialKeypad\test.ncd
+OUTFILE=E:\Behyaar\Projects\keypad\serialKeypad\test.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=E:\Behyaar\Projects\keypad\serialKeypad
+LICENSE=WebPack
+USER_INFO=__0_0_0

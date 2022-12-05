@@ -1,0 +1,5 @@
+vhdl work "uart_tx.vhd"
+vhdl work "uart_rx.vhd"
+vhdl work "uart.vhd"
+vhdl work "sevenSeg.vhd"
+vhdl work "test.vhd"
