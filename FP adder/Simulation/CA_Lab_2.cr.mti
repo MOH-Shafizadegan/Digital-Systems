@@ -1,0 +1,29 @@
+{E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module fp_adder__tb
+
+Top level modules:
+	fp_adder__tb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module fp_adder
+
+Top level modules:
+	fp_adder
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module fp_adder__tb2
+
+Top level modules:
+	fp_adder__tb2
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module fp_adder__tb3
+
+Top level modules:
+	fp_adder__tb3
+
+} {} {}}

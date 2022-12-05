@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/SUT/Semester4/Computer Architecture/Lab/1/simulation
+T_opt
+!s110 1655626644
+Vhi?]H_<H508[La4YHN4=;1
+04 13 4 work fp_adder__tb2 fast 0
+=1-14f6d83e07c4-62aedb93-66-850
+Z1 o-quiet -auto_acc_if_foreign -work CA_Test
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1655626522
+V3:=UV4ie]T8ZP>AJ0UF_Z1
+04 12 4 work fp_adder__tb fast 0
+=1-14f6d83e07c4-62aedb1a-68-4a38
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1655626682
+V38Cbg[72Vb___6HWl0X341
+04 13 4 work fp_adder__tb3 fast 0
+=1-14f6d83e07c4-62aedbba-1fc-7dc
+R1
+R2
+n@_opt2
+R3
+vfp_adder
+Z4 !s110 1655626517
+!i10b 1
+!s100 Zej15ZzJ1D`DiBTX]?Ylj2
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9bo83TS6>8WCc@MHcH=_P0
+Z6 dE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Simulation
+w1655626500
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v
+!i122 598
+L0 2 138
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1655626517.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfp_adder__tb
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R4
+!i10b 1
+!s100 Yd1CF4E@V5XdX<GUF1HS`2
+R5
+Ik_?4kll7]LdbjlNPnf>Q=3
+S1
+R6
+w1647587091
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv
+!i122 599
+L0 4 59
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfp_adder__tb2
+R10
+Z12 !s110 1655626518
+!i10b 1
+!s100 ^=Un@T71@GK=Q<>hOzI;91
+R5
+IOnX7VS_AYa4Oi3;CeF3kG0
+S1
+R6
+w1647533953
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv
+!i122 600
+L0 4 34
+R7
+R8
+r1
+!s85 0
+31
+Z13 !s108 1655626518.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb2.sv|
+!i113 0
+R11
+R2
+vfp_adder__tb3
+R10
+R12
+!i10b 1
+!s100 mWT7bY6S9D6oHE458OASc3
+R5
+I0]AfKWDROHK[0YIl`zJ<80
+S1
+R6
+w1647528222
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv
+!i122 601
+L0 4 136
+R7
+R8
+r1
+!s85 0
+31
+R13
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Codes/fp_adder__tb3.sv|
+!i113 0
+R11
+R2
