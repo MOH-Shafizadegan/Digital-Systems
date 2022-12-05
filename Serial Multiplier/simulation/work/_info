@@ -1,0 +1,226 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/SUT/Semester4/Computer Architecture/Lab/1/simulation
+T_opt
+!s110 1646894885
+VZmjXBiBmL40o?Q8^CC5nX2
+04 15 4 work multiplier3__tb fast 0
+=1-14f6d83e07c4-62299f25-140-3298
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1646894859
+V9W=Vo68RodQ:O^1RBzic_1
+04 15 4 work multiplier1__tb fast 0
+=1-14f6d83e07c4-62299f09-33f-29c4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1646209161
+VFCJX[FYF<=5]h6b3fDjmE1
+04 15 4 work multiplier2__tb fast 0
+=1-14f6d83e07c4-621f2888-238-2044
+R1
+R2
+n@_opt2
+R3
+R0
+vbooth_Multiplier
+Z4 !s110 1646894842
+!i10b 1
+!s100 MeKZzeG8N`BNo@Yl_igQJ2
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im1Nc@^z?X7P31lZ13e?SF1
+R0
+w1646207014
+8E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v
+!i122 664
+L0 2 57
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z8 !s108 1646894842.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+nbooth_@multiplier
+vbooth_Multiplier_tb
+R4
+!i10b 1
+!s100 d6`4[ngnah96`?Fb6>MSh2
+R5
+IenALh[IZ?:3L1750inZJo2
+R0
+w1646207271
+8E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v
+!i122 665
+L0 3 74
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v|
+!i113 0
+R9
+R2
+nbooth_@multiplier_tb
+vmultiplier1
+R4
+!i10b 1
+!s100 z3X;;i_k>PESI9SO@[0CK3
+R5
+IzIOR<?F>:Kf?lV66JN5Mm0
+R0
+w1645762806
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v
+!i122 666
+L0 2 51
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v|
+!i113 0
+R9
+R2
+vmultiplier1__tb
+R4
+!i10b 1
+!s100 DI>gP16P`[a88jKfFMR<^2
+R5
+I9jhcQVRCCOQiEV0cUk>6O1
+R0
+w1645762832
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v
+!i122 667
+L0 3 71
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v|
+!i113 0
+R9
+R2
+vmultiplier2
+!s110 1646894841
+!i10b 1
+!s100 FkoUbeT37^PRV[B`F6F1H3
+R5
+I;KGg849IjOdi<50e]ZHKn3
+R0
+w1645900552
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v
+!i122 660
+L0 2 36
+R6
+R7
+r1
+!s85 0
+31
+Z10 !s108 1646894841.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v|
+!i113 0
+R9
+R2
+vmultiplier2__tb
+R4
+!i10b 1
+!s100 `m3=d=XWg<Y2UkHI`DLR62
+R5
+IZ_V]`12c4G5CO>0^;G2=I3
+R0
+w1645855564
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v
+!i122 661
+L0 3 72
+R6
+R7
+r1
+!s85 0
+31
+R10
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v|
+!i113 0
+R9
+R2
+vmultiplier3
+R4
+!i10b 1
+!s100 =_4H]lBC8DPdJm6Bb>D4[3
+R5
+I2>3Cf_TmH[K8b5DcG3O=l3
+R0
+w1645939386
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v
+!i122 662
+L0 2 60
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v|
+!i113 0
+R9
+R2
+vmultiplier3__tb
+R4
+!i10b 1
+!s100 eT?@^h;KF:ALGk;IQe`Y_3
+R5
+I;T2Cej1]S;@TRc0YZ0n541
+R0
+w1645939540
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v
+!i122 663
+L0 3 73
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v|
+!i113 0
+R9
+R2

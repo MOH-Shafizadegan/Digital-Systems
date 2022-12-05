@@ -1,0 +1,132 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/SUT/Semester4/Computer Architecture/Lab/1/simulation
+T_opt
+!s110 1645768834
+VPQ4P;oAD1QoTEJe`;`zoW3
+04 11 4 work multiplier1 fast 0
+=1-14f6d83e07c4-62187081-344-29f8
+o-quiet -auto_acc_if_foreign -work CA_Test
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vmultiplier1
+!s110 1645768817
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 z3X;;i_k>PESI9SO@[0CK3
+IQfn<IED`WgFm4;@5@nIMN2
+R0
+w1645762806
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v
+!i122 7
+L0 2 51
+Z3 OL;L;2020.4;71
+31
+!s108 1645768817.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v|
+!s90 -reportprogress|300|-work|CA_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v|
+!i113 0
+Z4 o-work CA_Test -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmultiplier1__tb
+!s110 1645769086
+R2
+r1
+!s85 0
+!i10b 1
+!s100 DI>gP16P`[a88jKfFMR<^2
+IhJ^3G^imPM6BC6ceGFP>i3
+R0
+w1645767912
+8E:\SUT\Semester4\Computer Architecture\Lab\1\multiplier2__tb.v
+FE:\SUT\Semester4\Computer Architecture\Lab\1\multiplier2__tb.v
+!i122 15
+L0 3 71
+R3
+31
+!s108 1645769086.000000
+!s107 E:\SUT\Semester4\Computer Architecture\Lab\1\multiplier2__tb.v|
+!s90 -reportprogress|300|-work|CA_Test|-vopt|-stats=none|E:\SUT\Semester4\Computer Architecture\Lab\1\multiplier2__tb.v|
+!i113 0
+R4
+R1
+vmultiplier2
+!s110 1645769085
+R2
+r1
+!s85 0
+!i10b 1
+!s100 ^bX<5XnejGFQ3nIQz3eA70
+IVZAP]mzhaPOU;Z?U]hcZh0
+R0
+w1645763168
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v
+!i122 14
+L0 2 36
+R3
+31
+!s108 1645769085.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v|
+!s90 -reportprogress|300|-work|CA_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v|
+!i113 0
+R4
+R1
+vmultiplier3
+Z5 !s110 1645768818
+R2
+r1
+!s85 0
+!i10b 1
+!s100 IBU1PUCF16TfWgnzl7R`d3
+IYKD?jQJ>d^`iABGR]:g^00
+R0
+w1645766550
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v
+!i122 11
+L0 2 39
+R3
+31
+Z6 !s108 1645768818.000000
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v|
+!s90 -reportprogress|300|-work|CA_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v|
+!i113 0
+R4
+R1
+vmultiplier3_nb
+R5
+R2
+r1
+!s85 0
+!i10b 1
+!s100 PmP88]zPzg`dh0Q405nVF0
+I5ZC?iV`GA_EaV]jX7YBnI2
+R0
+w1645767171
+8E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v
+!i122 13
+L0 2 43
+R3
+31
+R6
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v|
+!s90 -reportprogress|300|-work|CA_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v|
+!i113 0
+R4
+R1

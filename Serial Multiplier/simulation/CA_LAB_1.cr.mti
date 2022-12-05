@@ -1,0 +1,65 @@
+{E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2__tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier2__tb
+
+Top level modules:
+	multiplier2__tb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v} {1 {vlog -work CA_Test -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3_nb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier3_nb
+
+Top level modules:
+	multiplier3_nb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier2
+
+Top level modules:
+	multiplier2
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3__tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier3__tb
+
+Top level modules:
+	multiplier3__tb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier3.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier3
+
+Top level modules:
+	multiplier3
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v} {2 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module booth_Multiplier
+** Warning: E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier.v(48): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	booth_Multiplier
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/booth_Multiplier_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module booth_Multiplier_tb
+
+Top level modules:
+	booth_Multiplier_tb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier1
+
+Top level modules:
+	multiplier1
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/1/multiplier1__tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplier1__tb
+
+Top level modules:
+	multiplier1__tb
+
+} {} {}}
