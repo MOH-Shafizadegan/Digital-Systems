@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sat Jul 30 16:41:24 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "led" LOCATE = SITE "P132" LEVEL 1;
+COMP "btn" LOCATE = SITE "P67" LEVEL 1;
+COMP "clock" LOCATE = SITE "P50" LEVEL 1;
+SCHEMATIC END;
+

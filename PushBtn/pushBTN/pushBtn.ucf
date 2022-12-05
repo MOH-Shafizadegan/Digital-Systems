@@ -1,0 +1,6 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "btn" LOC = P67;
+NET "led" LOC = P132;
+NET "clock" LOC = P50;
