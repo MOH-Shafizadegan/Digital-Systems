@@ -1,0 +1,41 @@
+{E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module async_mem
+-- Compiling module reg_file
+
+Top level modules:
+	async_mem
+	reg_file
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/work/tb__basic/single_cycle_mips__tb_basic.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/work/tb__basic/single_cycle_mips__tb_basic.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module single_cycle_mips__tb_basic
+
+Top level modules:
+	single_cycle_mips__tb_basic
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v} {0 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module single_cycle_mips
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(71): (vlog-2730) Undefined variable: 'AluSrc'.
+** Error: (vlog-13069) E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(87): near "endcase": syntax error, unexpected endcase.
+** Error: (vlog-13069) E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(212): near "endcase": syntax error, unexpected endcase.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(251): Checker 'reg_file' not found.  Instantiation 'rf' must be of a visible checker.
+
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(257): (vlog-2730) Undefined variable: 'Imm32'.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(260): Checker 'my_alu' not found.  Instantiation 'alu' must be of a visible checker.
+
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(272): Checker 'async_mem' not found.  Instantiation 'imem' must be of a visible checker.
+
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(282): Checker 'async_mem' not found.  Instantiation 'dmem' must be of a visible checker.
+
+** Error: (vlog-13069) E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(284): near "endmodule": syntax error, unexpected endmodule.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(308): Declarations not allowed in unnamed block.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(310): Illegal declaration after the statement near line '306'.  Declarations must precede statements.  Look for stray semicolons.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(324): (vlog-2730) Undefined variable: 'X'.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(324): LHS in procedural continuous assignment may not be a net: X.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(325): (vlog-2730) Undefined variable: 'Z'.
+** Error: E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(325): LHS in procedural continuous assignment may not be a net: Z.
+** Error: (vlog-13069) E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v(327): near "endmodule": syntax error, unexpected endmodule.
+
+} {4.0 8.0 9.0 11.0 12.0 13.0 14.0 15.0 16.0 24.0} {}}

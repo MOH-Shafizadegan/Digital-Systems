@@ -1,0 +1,179 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4
+T_opt
+!s110 1652368789
+V^5bVY2iWELYCS>a0_f<UZ0
+Z1 04 27 4 work single_cycle_mips__tb_basic fast 0
+=1-14f6d83e07c4-627d2592-1ab-2920
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1652339677
+Vz7MnfQ@O;VS]Wz]1O>;hL3
+R1
+=1-14f6d83e07c4-627cb3dc-2a6-2ed4
+o-quiet -auto_acc_if_foreign -work work +acc
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1652368875
+V7I80EE3DQ`ab0XWd_6;[33
+04 27 4 work single_cycle_mips__tb_isort fast 0
+=1-14f6d83e07c4-627d25eb-1e5-db8
+R2
+R3
+n@_opt2
+R4
+R0
+vasync_mem
+Z5 !s110 1652368957
+!i10b 1
+!s100 Qz3o0Cj1o92FlEmS<@7MV2
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIWb`J8FWh<3NbCfi_VSPk3
+Z7 dE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes
+Z8 w1650261567
+Z9 8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v
+Z10 FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v
+!i122 50
+L0 6 18
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z13 !s108 1652368957.000000
+Z14 !s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/building_blocks.v|
+!i113 0
+Z16 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vmy_alu
+R5
+!i10b 1
+!s100 P]=2VPz9V0M0ni`9_3Vm`0
+R6
+IkiSHOJo_2gTd8@_Md9iF=3
+R7
+Z17 w1652368711
+Z18 8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v
+Z19 FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v
+!i122 51
+L0 315 39
+R11
+R12
+r1
+!s85 0
+31
+R13
+Z20 !s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips.v|
+!i113 0
+R16
+R3
+vreg_file
+R5
+!i10b 1
+!s100 mJ8PWaneZhmW26;]:i@b50
+R6
+Ic>SkSndnJjY<Da:d3Ca^_2
+R7
+R8
+R9
+R10
+!i122 50
+L0 31 33
+R11
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R3
+vsingle_cycle_mips
+R5
+!i10b 1
+!s100 =`3mdB33oXzHhoa<mmWR^1
+R6
+I]YR[2TTNAB1:f2Q71LM^D0
+R7
+R17
+R18
+R19
+!i122 51
+L0 23 288
+R11
+R12
+r1
+!s85 0
+31
+R13
+R20
+R21
+!i113 0
+R16
+R3
+vsingle_cycle_mips__tb_basic
+R5
+!i10b 1
+!s100 i]FcZbJGhmCWU;0Y;hK202
+R6
+IlCAXo=ZhUN5hEo?bUXe3j3
+R7
+w1652368753
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips__tb_basic.v
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips__tb_basic.v
+!i122 52
+L0 3 37
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/single_cycle_mips__tb_basic.v|
+!i113 0
+R16
+R3
+vsingle_cycle_mips__tb_isort
+R5
+!i10b 1
+!s100 ]YjkDm`77H:J@caI;MNER1
+R6
+InGmWN`dLJBE]hn`8cAV4F2
+R7
+w1618663208
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/tb__isort/single_cycle_mips__tb_isort.v
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/tb__isort/single_cycle_mips__tb_isort.v
+!i122 53
+L0 5 197
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/tb__isort/single_cycle_mips__tb_isort.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/4/Codes/tb__isort/single_cycle_mips__tb_isort.v|
+!i113 0
+R16
+R3

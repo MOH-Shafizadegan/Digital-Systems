@@ -1,0 +1,65 @@
+#
+# Insertion sort algorithm
+# See http://www.cs.ubc.ca/spider/harrison/Java/InsertionSortAlgorithm.java.html
+# Note use of MIPS register pseudo-names, and # for comments
+#
+       
+        ori $t0, $zero, 0
+        addiu $t1, $zero, 0x60
+
+        ori $v1, $zero, 0xdead
+
+wrt:    sw $v1, 0x80($t0)
+        addi $t1, $t1, -1
+        addiu $t0, $t0, 4
+
+        add $v0, $v1, $v1
+        xor $v0, $v1, $v0
+        xori $v1, $v0, 0xbeef
+
+        bne $t1, $zero, wrt
+
+sort:   addi $t0, $zero, 4    # $t0 = i = 4
+        addi $t1, $zero, 0x60 # $t1 = len = 96
+        addu $t1, $t1, $t1
+        addu $t1, $t1, $t1
+
+for:    slt $t2, $t0, $t1     # i < len?
+        beq $zero, $t2, out   # yes - exit
+        add $t3, $zero, $t0   # $t3=j=i
+        lw $t4, 0x80($t0)     # $t4=B=a[i]
+
+loop:   slt $t2, $zero, $t3   # j>0 ?
+        beq $zero, $t2, over  # no -exit
+        addi $t5, $t3, -4     # $t5=j-1
+        lw $t6, 0x80($t5)     # get $t6=a[j-1]
+        sltu $t2, $t6, $t4    # >B ?
+        beq $zero, $t2, over	 
+        sw $t6, 0x80($t3)     # a[j]=a[j-1]
+        add $t3, $zero, $t5   # j--
+        beq $zero, $zero, loop
+
+over:   sw $t4, 0x80($t3)     # a[j] = B
+        addi $t0, $t0, 4      # i++
+        beq $zero, $zero, for
+
+out:    beq $zero, $zero, out #stop here forever
+   
+
+
+
+
+#class InsertionSortAlgorithm extends SortAlgorithm {
+#    void sort(int a[]) throws Exception {
+#	for (int i = 1; i < a.length; i++) {
+#	    int j = i;
+#	    int B = a[i];
+#	    while ((j > 0) && (a[j-1] > B)) {
+#	        a[j] = a[j-1];
+#	        j--;
+#	    }
+#	    a[j] = B;
+#        }
+#    }
+#}
+
