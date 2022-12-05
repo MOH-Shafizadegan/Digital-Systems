@@ -1,0 +1,247 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/SUT/Semester4/Computer Architecture/Lab/Verilog/2/Simulation
+T_opt
+!s110 1656141618
+V1?M]6WK`feh=NJU^32C?T1
+04 26 4 work multi_cycle_mips__tb_basic fast 0
+=1-14f6d83e07c4-62b6b732-96-1558
+Z1 o-quiet -auto_acc_if_foreign -work CA_MULTI_Test
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1656085301
+V`?Ph8J2mlX:6cB<deGCK_1
+04 29 4 work multi_cycle_mips__tb_advanced fast 0
+=1-14f6d83e07c4-62b5db34-184-15d4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1656086083
+VZnNI^Jh6NzW^f_jS;Cc2b1
+04 20 4 work multi_cycle_mips__tb fast 0
+=1-14f6d83e07c4-62b5de43-22a-28e8
+R1
+R2
+n@_opt2
+R3
+R0
+vasync_mem
+Z4 !s110 1656141605
+!i10b 1
+!s100 b?z@EoK]Z`X@i8ga;ER;C1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im3dANKnmn=[SFe1<>T9PO0
+Z6 dE:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation
+Z7 w1656080855
+Z8 8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v
+Z9 FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v
+!i122 310
+L0 58 18
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1656141605.000000
+Z13 !s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmulti_cycle_mips
+Z16 !s110 1656141604
+!i10b 1
+!s100 i>lY6gzgN`cCJ[@j4d1Jd1
+R5
+ILGT@^Mf>PH6LS9Jnn;6[A1
+R6
+Z17 w1656085532
+Z18 8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v
+Z19 FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v
+!i122 307
+L0 13 443
+R10
+R11
+r1
+!s85 0
+31
+Z20 !s108 1656141604.000000
+Z21 !s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v|
+Z22 !s90 -reportprogress|300|-work|CA_MULTI_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v|
+!i113 0
+Z23 o-work CA_MULTI_Test -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmulti_cycle_mips__tb
+R4
+!i10b 1
+!s100 l:3eK67QL[13CJm_XLE?G0
+R5
+II2Oia^65A=9>Oa<=0cLW23
+R6
+w1655961721
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v
+!i122 309
+L0 4 65
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v|
+!s90 -reportprogress|300|-work|CA_MULTI_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v|
+!i113 0
+R23
+R2
+vmulti_cycle_mips__tb_advanced
+R4
+!i10b 1
+!s100 QLGLQkkh;YZFgK`Oej4ie0
+R5
+IBY8=A7ALUn0iJU<zXI:[=2
+R6
+R7
+R8
+R9
+!i122 310
+L0 4 51
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_basic
+R16
+!i10b 1
+!s100 iUOmzK4I3Riz9ln8^igGz0
+R5
+If?nb0^ilDj_ZdB:c>;Q4J2
+R6
+w1656141593
+8E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v
+FE:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v
+!i122 308
+L0 4 55
+R10
+R11
+r1
+!s85 0
+31
+R20
+!s107 E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|CA_MULTI_Test|-vopt|-stats=none|E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v|
+!i113 0
+R23
+R2
+vmultiplier
+R16
+!i10b 1
+!s100 OF[=]TXnil7<Bfz<G1dhG0
+R5
+IMKE01NYdX2MoGSicBHaD_0
+R6
+R17
+R18
+R19
+!i122 307
+L0 531 36
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R23
+R2
+vmultiplier1
+!s110 1656077144
+!i10b 1
+!s100 ohOzH1J5TBJfRHJ:4z8j[2
+R5
+IH5PCMX4T`7z<K?R<0P6AM0
+R6
+w1656077137
+R18
+R19
+!i122 143
+L0 533 44
+R10
+R11
+r1
+!s85 0
+31
+!s108 1656077144.000000
+R21
+R22
+!i113 0
+R23
+R2
+vmy_alu
+R16
+!i10b 1
+!s100 z0CCIaE@PaR0^PBZ5b;hb3
+R5
+Izd2GHhN[HM3gaAa5X_QG]3
+R6
+R17
+R18
+R19
+!i122 307
+L0 459 42
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R23
+R2
+vreg_file
+R16
+!i10b 1
+!s100 LeBgcDh:5Z6E;IcA4HTeh2
+R5
+I^Z<ePR1V<:Clh?9Shn86=3
+R6
+R17
+R18
+R19
+!i122 307
+L0 504 24
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R23
+R2

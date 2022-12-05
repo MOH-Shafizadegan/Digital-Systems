@@ -1,0 +1,35 @@
+{E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v} {1 {vlog -work work -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb_advanced.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multi_cycle_mips__tb_advanced
+-- Compiling module async_mem
+
+Top level modules:
+	multi_cycle_mips__tb_advanced
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v} {1 {vlog -work CA_MULTI_Test -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Simulation/CA_MULTI_Test/multi_cycle_mips__tb_basic.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multi_cycle_mips__tb_basic
+-- Compiling module async_mem
+
+Top level modules:
+	multi_cycle_mips__tb_basic
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v} {1 {vlog -work CA_MULTI_Test -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips__tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multi_cycle_mips__tb
+-- Compiling module async_mem
+
+Top level modules:
+	multi_cycle_mips__tb
+
+} {} {}} {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v} {1 {vlog -work CA_MULTI_Test -vopt -stats=none {E:/SUT/Semester4/Computer Architecture/Lab/Verilog/5/Codes2/multi_cycle_mips.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multi_cycle_mips
+-- Compiling module my_alu
+-- Compiling module reg_file
+-- Compiling module multiplier
+
+Top level modules:
+	multi_cycle_mips
+
+} {} {}}
